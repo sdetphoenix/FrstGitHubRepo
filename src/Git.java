@@ -15,4 +15,6 @@ public class Git {
 	public void methodB(){
 		// this is test for pull 
 	}
+	
+	
 }
